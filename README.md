@@ -18,8 +18,6 @@ Da ich noch keine Noten von einem Programmier Modul zurück bekommen habe, werde
 - [ ] Eine Konsole mit GUI starten
 - [x] Das Portfolio für M431 beenden
 
-# Arbeiten erledigt am 20.10.2023
-
 Heute im Lernatelier habe ich das Portfolio für das Modul 431 fertig geschriben. Ich konnte mich heute sehr gut Konzentrieren und konnte das Portfolio von nichts auf fertig fertig schreiben. Leider hatte ich dann keine Zeit mehr um die Konsole mit GUI zu starten, da ich bis zur letzten Minute mit dem Portfolio beschäftigt war. Aber ich finde das Portfolio hat auch einen höheren Stellenwert wie das Projekt. (68 Wörter)
 
 
