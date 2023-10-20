@@ -22,9 +22,9 @@ Heute im Lernatelier habe ich das Portfolio für das Modul 431 fertig geschriben
 
 
 # Arbeitspakete für 27.10.2023
-[ ] Konsole mit GUI starten
-[ ] Die GUI gestalten, damit ich eine Basis habe worauf ich Programmieren kann.
-[ ] Anfangen den Code zu programmieren.
+- [ ] Konsole mit GUI starten
+- [ ] Die GUI gestalten, damit ich eine Basis habe worauf ich Programmieren kann.
+- [ ] Anfangen den Code zu programmieren.
 
 
 
