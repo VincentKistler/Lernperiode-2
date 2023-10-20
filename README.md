@@ -17,4 +17,4 @@ Da ich noch keine Noten von einem Programmier Modul zurück bekommen habe, werde
 
 [ ] Eine Konsole mit GUI starten
 
-[ ] Die GUI zunächst einmal gestalten, das ich einen Grundbaustein habe für das Programmieren
+[ ] Das Portfolio für M431 beenden
