@@ -15,9 +15,8 @@ Da ich noch keine Noten von einem Programmier Modul zurück bekommen habe, werde
 
 # Arbeitspakete für 20.10.2023
 
-[ ] Eine Konsole mit GUI starten
-
-[x] Das Portfolio für M431 beenden
+- [ ] Eine Konsole mit GUI starten
+- [x] Das Portfolio für M431 beenden
 
 # Arbeiten erledigt am 20.10.2023
 
