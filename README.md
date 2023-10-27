@@ -22,9 +22,18 @@ Heute im Lernatelier habe ich das Portfolio für das Modul 431 fertig geschriben
 
 
 # Arbeitspakete für 27.10.2023
-- [ ] Konsole mit GUI starten
-- [ ] Die GUI gestalten, damit ich eine Basis habe worauf ich Programmieren kann.
+- [x] Konsole mit GUI starten
+- [x] Die GUI gestalten, damit ich eine Basis habe worauf ich Programmieren kann.
 - [ ] Anfangen den Code zu programmieren.
+
+Heute im Onlineunterricht habe ich angefangen die GUI zu gestalten, ausserdem habe ich noch das komplette Portfolio von 319 fertg gemacht, alles was ich beim Portfolio noch machen muss ist die Gestaltung. Die GUI zu gestalten hat mir keine besonderen schwierigkeiten bereitet, da C# ein tolles toll zu verfügung stellt, mit dem man die GUI mühelos Gestalten kann. (58 wörter)
+
+# Arbeitspakete 3.11.2023 (Distanz Unterricht)
+
+- [ ] anfangen mit Programmieren
+- [ ] erste Tests durchführen
+- [ ] den Code an die Test anpassen
+- [ ] Den Code so gut es geht einfach zu halten (kein richtiges abreitpakete, aber es ist mir wichtig)
 
 
 
