@@ -30,10 +30,14 @@ Heute im Onlineunterricht habe ich angefangen die GUI zu gestalten, ausserdem ha
 
 # Arbeitspakete 3.11.2023 (Distanz Unterricht)
 
-- [ ] anfangen mit Programmieren
-- [ ] erste Tests durchführen
+- [x] anfangen mit Programmieren
+- [x] erste Tests durchführen
 - [ ] den Code an die Test anpassen
 - [ ] Den Code so gut es geht einfach zu halten (kein richtiges abreitpakete, aber es ist mir wichtig)
+
+Heute Im Distanz Unterricht, habe ich damit angefangen den Code zu programmieren, ich habe als erstes damit angefangen, dass das Programm lockalisieren soll, wo die Schlange sich befinden, einen Timer und weiteres. Leider habe ich noch sehr viele Fehler im Programm, diese muss ich nächstes mal alle ausbessern und weiter programmieren.(51 Wörter)
+<img width="820" alt="image" src="https://github.com/VincentKistler/Lernperiode-2/assets/142605710/d3270fb4-9f9b-4158-829e-720df44c2015">
+
 
 
 
