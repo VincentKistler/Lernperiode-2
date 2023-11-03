@@ -38,6 +38,8 @@ Heute im Onlineunterricht habe ich angefangen die GUI zu gestalten, ausserdem ha
 Heute Im Distanz Unterricht, habe ich damit angefangen den Code zu programmieren, ich habe als erstes damit angefangen, dass das Programm lockalisieren soll, wo die Schlange sich befinden, einen Timer und weiteres. Leider habe ich noch sehr viele Fehler im Programm, diese muss ich nächstes mal alle ausbessern und weiter programmieren.(51 Wörter)
 <img width="820" alt="image" src="https://github.com/VincentKistler/Lernperiode-2/assets/142605710/d3270fb4-9f9b-4158-829e-720df44c2015">
 
+<img width="796" alt="image" src="https://github.com/VincentKistler/Lernperiode-2/assets/142605710/1c2795f0-00fb-4a20-aa2f-8bc659acd5c8">
+die Variable GamerTimer muss ich im der GUI noch deklarieren.
 
 
 
