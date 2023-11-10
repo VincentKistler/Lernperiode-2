@@ -41,6 +41,13 @@ Heute Im Distanz Unterricht, habe ich damit angefangen den Code zu programmieren
 <img width="796" alt="image" src="https://github.com/VincentKistler/Lernperiode-2/assets/142605710/1c2795f0-00fb-4a20-aa2f-8bc659acd5c8">
 die Variable GamerTimer muss ich im der GUI noch deklarieren.
 
+## Arbeitspakete 10.11.2023
+
+- [ ]
+- [ ]
+- [ ] 
+  
+
 
 
 
