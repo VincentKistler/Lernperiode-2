@@ -43,11 +43,17 @@ die Variable GamerTimer muss ich im der GUI noch deklarieren.
 
 ## Arbeitspakete 10.11.2023
 
-- [ ]
-- [ ]
-- [ ] 
-  
+- [x] Mit meinem Team die Schnittstelle in C# kennenlernen
+- [x] Die ersten knöpfe der GUI mit dem Code verbinde
+- [ ] Ein wenig am meinem eigenen Projekt weiterarbeiten
 
+Heute im Lernatelier habe ich mit meinem Team die Schnittstelle in C# angeschaut, wir haben uns zuerst über die Schnittstelle informiert und dies sehr lange, da wir noch nie etwas mit einer Schnittstelle zutun hatten. Danach haben wir die ersten Knöpfe der GUI mit dem Code verbunden, aber noch nichts grosser. Leider hatte ich keine zeit mehr für mein Projekt, da die Schnittstelle sehr viel Zeit in anspruch nahm.
+
+## Arbeitspakete für 17.11.2023
+
+- [ ] An meinem Projekt die GUI erweitern und mit dem Code verbinden
+- [ ] wenn möglich mit meinem Team an dem Programmier projekt an der Schnittstelle weiterarbeiten.
+- [ ] vielleicht die ersten richtigen Test versuche an meinem kleinen Spiel durchführen.
 
 
 
