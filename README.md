@@ -55,5 +55,15 @@ Heute im Lernatelier habe ich mit meinem Team die Schnittstelle in C# angeschaut
 - [ ] wenn möglich mit meinem Team an dem Programmier projekt an der Schnittstelle weiterarbeiten.
 - [ ] vielleicht die ersten richtigen Test versuche an meinem kleinen Spiel durchführen.
 
+Heute Im Lernatelier habe ich versucht eine Schnittstelle zu ertsellen, da dies sehr aufwendig war und desshalb sehr Zeit aufwendig bin ich mit den anderen Lernpaketen nicht mehr fertig geworden. Da ich aber das Prinzip immer noch nicht ganz verstanden habe wie man nun richtig eine Schnittstelle erstellt, werde ich noch nach einem Input zu einer Schnittstelle in C# fragen.
+
+
+## Arbeitspakete für 24.11.2023
+
+- [ ] Mit dem Input über die Schnittstelle, eine komplette und Funktionstüchtige Schnittstelle erstellen
+- [ ] Mit meinem Team an unserem Programmier Projekt weiterarbeiten
+- [ ] Mein Snkae game in ein Consolen Game umwandeln
+- [ ] Mein Snake game fertigstellen als Consolen applikation
+
 
 
