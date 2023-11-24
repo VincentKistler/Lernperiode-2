@@ -66,4 +66,13 @@ Heute Im Lernatelier habe ich versucht eine Schnittstelle zu ertsellen, da dies 
 - [ ] Mein Snake game fertigstellen als Consolen applikation
 
 
+Heute am 24.11.2023 habe ich mein snake game in ein consolen game umwandeln können. Es hat aber noch einige Fehler, man kann sich zum Beispiel nicht bewegen, also die Schlange fährt, aber man kann sie nicht bewegen, warum das genau ist verstehe ich noch nicht ganz. Mit meinem Team konnte ich nicht mehr an unserem Projekt arbeiten, wegen der Zeit. Das Snake game ist soweit fertig, bis auf den Bugg das man sich nicht bewegen kann.
+
+
+## Arbeitspakete für 01.12.2023
+
+- [ ] Den Fehler von meinem Snake Game ausbessern mit einer Schleife (sehr wahrscheinlich while)
+- [ ] Ich möchte mit meinem neuen Projekt beginnen, bin mir aber noch nicht genau sicher was dies für ein Projekt sein wird. (natürlich erst wenn das Snake Game komplett fertig ist)
+- [ ] Wenn möglich meine Excel Skills verbessern (Hauptpunkt mit Formeln in Excel) 
+
 
