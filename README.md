@@ -73,6 +73,14 @@ Heute am 24.11.2023 habe ich mein snake game in ein consolen game umwandeln kön
 
 - [ ] Den Fehler von meinem Snake Game ausbessern mit einer Schleife (sehr wahrscheinlich while)
 - [ ] Ich möchte mit meinem neuen Projekt beginnen, bin mir aber noch nicht genau sicher was dies für ein Projekt sein wird. (natürlich erst wenn das Snake Game komplett fertig ist)
-- [ ] Wenn möglich meine Excel Skills verbessern (Hauptpunkt mit Formeln in Excel) 
+- [ ] Wenn möglich meine Excel Skills verbessern (Hauptpunkt mit Formeln in Excel)
+
+Heute im Online Unterricht bin ich ein wenig von meinen Uhrsprünglichen Arbeitspaketen abgewichen, den heute habe ich an probiert an dem Adventskalender zu arbeiten und auch an dem Portfolio für das Modul 162 gearbeitet. Das Portfolio ist auch nicht schlecht für meine Excel Skills, da wir im Modul 162 viele Tabellen in Excel sortieren und überpüfen müssen.
+
+## Arbeitspakete für 08.12.2023
+
+- [ ] Am Adventskalender versuchen das 2. Rätsel zu lösen
+- [ ] Den Fehler von meinem Snake Game ausbessern (Arbeitspaket von 01.12.2023)
+
 
 
