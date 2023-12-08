@@ -83,4 +83,13 @@ Heute im Online Unterricht bin ich ein wenig von meinen Uhrsprünglichen Arbeits
 - [ ] Den Fehler von meinem Snake Game ausbessern (Arbeitspaket von 01.12.2023)
 
 
+Da wir am 8.12.2023 DSL haben, habe ich mich dazu entschlossen vorzuarbeiten. Ich habe für das Modul 162 mein Portfolio beendet und abgegeben, ausser dem habe ich versucht den Fehler in meinem Code zu finden was mehr oder weniger erfolgreich war, man kann nun die d Taste drücken und es bewegt sich auch nach rechts, jedoch funktionieren alle anderen, respektive a,s und w nicht. Ich habe mir eigentlich noch vorgenommen am Adventskalender zu arbeiten, jedoch denke ich, das ich es mit dem Adventskalender sein lasse und micht mehr auf die Projekte konzentrieren werde
+
+## Arbeitspakete für 15.12.2023
+
+- [ ] Mein Snake Game fertigstellen, was nächstes mal möglich sein sollte
+- [ ] Für das Modul 117 vorarbeiten, da ich den einstieg noch nicht all zu gut verstanden habe
+- [ ] falls das Snake Game fertig wird mit einem neuen Projekt starten
+
+
 
