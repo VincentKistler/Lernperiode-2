@@ -91,5 +91,13 @@ Da wir am 8.12.2023 DSL haben, habe ich mich dazu entschlossen vorzuarbeiten. Ic
 - [ ] Für das Modul 117 vorarbeiten, da ich den einstieg noch nicht all zu gut verstanden habe
 - [ ] falls das Snake Game fertig wird mit einem neuen Projekt starten
 
+heute im Lernatelier habe ich mein Snake game endlich fertiggestellt und bin mit dem Endergebniss auch zufrieden, bis auf kleine mängel ist das Spiel spielbar, jedoch ist dies ein bisschen schwer aber machtbar, weil man den Schwanz der schlange nicht sieht, er wächts also noch nicht. Als nächstes Projekt habe ich chatgpt nach einer Idee gefragt und was er mir vorgeschlagen hat, hat mir auch eigentlich sehr gut gefallen. Die Idee von Chatgpt war ein Roadrunner game, also etwas wie flappy Bird oder das offline Dino game. Mit dem Spiel habe ich auch schon ein bisschen angefangen, also das man mit der spacebar springt, man kommt jedoch noch nicht wieder runter nach dem betätigen der spacebar. (116 Wörter)
+
+## Arbeitspakete für 22.12.2023
+
+- [ ] Das Spiele layout erstellen für das Roadrunner game
+- [ ] so programmieren, das man nach dem betätigen der spacebar, hochspringt und nach einer kleinen Zeit wieder automatisch herunter geht.
+      
+
 
 
