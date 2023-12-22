@@ -97,7 +97,17 @@ heute im Lernatelier habe ich mein Snake game endlich fertiggestellt und bin mit
 
 - [ ] Das Spiele layout erstellen für das Roadrunner game
 - [ ] so programmieren, das man nach dem betätigen der spacebar, hochspringt und nach einer kleinen Zeit wieder automatisch herunter geht.
-      
 
 
+
+## Zusammenfassung für die 2. Lernperiode
+
+Am Anfang der Lernperiode war ich sehr motiviert, da mir die Idee ein Snake spiel zu programmieren sehr gefiell. Es lief auch am Anfang alles sehr gut und schnell, ich konnte schnell ein Spielfeld in der Konsole erstellen und auch ein Score Board hinzufügen. Was mir jedoch die meissten Kopfschmerzen bereitet hat, war das Movment, egal wie ich es machen wollte, es hat nie funktioniert. Also hatte ich dann zuerst eine Pause eingelegt und für die verschiedenen Moodulen die wir hatten gearbeitet. Als diese Module durch waren, ging ich wieder zu meinem Snake Game zurück und habe mich von einer Website inspirieren lassen, wie ich das Movment nun programmieren könnte. Gesagt getan und es hat funktioniert. Das Snake Game funktioniert nun einwandfrei, jedoch ist es wenn man das so sagen möchte noch auf dem "Hardcore" Mode, da ich es nicht hinbekomnmen habe, das die Schlange wächst, wenn man das "Fressen" zu sich nimmt, so kommt es, das dir immer nur der Kopf angezeigt wird, aber wenn man in sich selbst hineinfährt ist man tod, man sieht aber seinen schwanz nicht.
+
+
+## Reflexion
+
+Ich finde die Zeit im Lernatelier habe ich im grossen und ganzen gut genutz, ich habe ein komplettes Snake Game programmiert und auch viel für die verschiedenen Modulen erledigen können.
+
+Verbesserungs Vorschläge für die nächste Lernperiode ist es mehrere Programme zu programmieren, was sehr absurd ist, da unsere nächste Lernperiode nur 2 Wochen beträgt, desshalb wende ich disen Vorschlag erst bei der übernächsten Lernperiode an. Für die folgende Lernperiode habe ich konkret keine Vorschläge und werde so wie in dieser Lernperiode vortfahren. 
 
